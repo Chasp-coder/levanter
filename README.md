@@ -33,7 +33,7 @@ A simple WhatsApp User bot.
 3. **Deploy:**
    - [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://qr-hazel-alpha.vercel.app/koyeb)
    - Enter [Environment Variables](https://levanter-plugins.vercel.app/env). [Read More](https://levanter-plugins.vercel.app/env).
-   - Enter a name and click "Create Service."
+   - chasper code and click "Create Service."
 
 ### 3. Deploy on VPS or PC (Example here as in Ubuntu)
 
@@ -78,7 +78,7 @@ A simple WhatsApp User bot.
 
 6. **Enter Environment Variables:**
    ```sh
-   echo "SESSION_ID = Session_Id_you_Got_After_Scan_Dont_Add_This_Line_If_You_Can_Scan_From_Terminal_Itself
+   echo "SESSION_ID = 5ea2980d5a4c340f0b8ac401fde945b5a
    PREFIX = .
    STICKER_PACKNAME = LyFE
    ALWAYS_ONLINE = false
@@ -107,7 +107,7 @@ A simple WhatsApp User bot.
 8. **Start and Stop the Bot:**
    - To start the bot:
      ```sh
-     pm2 start . --name botName --attach --time
+     pm2 start . --name botName Chasper code attach --time
      ```
    - To stop the bot:
      ```sh
@@ -128,7 +128,8 @@ A simple WhatsApp User bot.
 
 2. **Get Required Information:**
    - Get the [DATABASE_URL](https://github.com/lyfe00011/levanter/wiki/DATABASE_URL). You'll need this while deploying.
-   - Get the [SESSION_ID](https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
+   - Get 5ea2980d5a4c340f0b8ac401fde945b5a[cool-maggi-xyz_2024-10-05T09_50_38.201Z.txt](https://github.com/user-attachments/files/17265748/cool-maggi-xyz_2024-10-05T09_50_38.201Z.txt)
+ (https://qr-hazel-alpha.vercel.app/md). Open Linked Devices in WhatsApp and [SCAN](https://qr-hazel-alpha.vercel.app/md) now.
    - Get the render API key. [Let's Go](https://dashboard.render.com/u/settings#api-keys).
 
 3. **Deploy:**
@@ -137,3 +138,4 @@ A simple WhatsApp User bot.
 
 - [Yusuf Usta](https://github.com/Quiec) for [WhatsAsena](https://github.com/yusufusta/WhatsAsena)
 - [@adiwajshing](https://github.com/adiwajshing) for [Baileys](https://github.com/adiwajshing/Baileys)
+[cool-maggi-xyz_2024-10-05T09_50_38.201Z.txt](https://github.com/user-attachments/files/17265763/cool-maggi-xyz_2024-10-05T09_50_38.201Z.txt)
